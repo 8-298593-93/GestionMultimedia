@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DVD
+comment1.params=elTitulo\ tiempo\ director
+comment1.target=DVD(java.lang.String,\ int,\ java.lang.String)
+comment2.params=director
+comment2.target=void\ setDirector(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDirector()
+comment4.params=
+comment4.target=void\ imprimir()
+numComments=5

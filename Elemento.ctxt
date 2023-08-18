@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Elemento
+comment1.params=elTitulo\ tiempo
+comment1.target=Elemento(java.lang.String,\ int)
+numComments=2
